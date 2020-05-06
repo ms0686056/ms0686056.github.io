@@ -1,9 +1,12 @@
 body {
-  background-color: blue;
+  text-align: center;
+}
+
+.mainPic {
+  border-style: dotted rounded black 10px;
 }
 
 h1 {
-  text-align: center;
   font: green;
 }
 
@@ -23,7 +26,6 @@ sidebar {
 sidebar a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  text-align: center;
   font-size: 25px;
   color: #818181;
   display: block;
@@ -38,6 +40,5 @@ sidebar a:hover {
   right: auto;
   background-color: blue;
   font: green;
-  text-align: center;
 
 }
