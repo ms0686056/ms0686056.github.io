@@ -8,8 +8,9 @@ h1 {
 
 sidebar {
   height: 100%;
-  width: 200px;
+  width: 300px;
   position: fixed;
+  left: auto;
   z-index: 1;
   top: 0;
   left: 0;
@@ -31,6 +32,8 @@ sidebar a:hover {
 }
 
 .timeline {
+  position: fixed;
+  right: auto;
   background-color: blue;
   font: white;
   text-align: center;
