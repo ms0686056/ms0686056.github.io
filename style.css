@@ -4,6 +4,7 @@ body {
 
 h1 {
   text-align: center;
+  font: green;
 }
 
 sidebar {
@@ -35,7 +36,7 @@ sidebar a:hover {
   position: fixed;
   right: auto;
   background-color: blue;
-  font: white;
+  font: green;
   text-align: center;
 
 }
