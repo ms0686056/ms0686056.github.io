@@ -1,22 +1,27 @@
+/* Whole Page */
 * {
   text-align: center;
   box-sizing: border-box;
 }
 
+/* Body */
 body {
   background-color: #474e5d;
   font-family: Helvetica, sans-serif;
 }
 
+/* Main Pic used on my Bio */
 .mainPic {
   border-style: dotted rounded black 10px;
 }
 
+/* Headings */
 h1 {
   font: green;
 }
 
-sidebar {
+/* Sidebar */
+div.sidebar {
   height: 100%;
   width: 300px;
   position: fixed;
@@ -29,7 +34,7 @@ sidebar {
   padding-top: 20px;
 }
 
-sidebar a {
+div.sidebar a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
@@ -37,15 +42,11 @@ sidebar a {
   display: block;
 }
 
-sidebar a:hover {
+div.sidebar a:hover {
   color: #f1f1f1;
 }
 
-.box {
-  position: absolute;
-  right: 0px;
-}
-
+/* Timeline */
 ul.timeline {
   list-style-type: none;
   position: relative;
