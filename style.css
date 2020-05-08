@@ -51,6 +51,9 @@ ul.timeline {
   list-style-type: none;
   position: fixed;
   right: auto;
+  z-index: 1;
+  top: 0;
+  right: 0;
 }
 ul.timeline:before {
   content: ' ';
