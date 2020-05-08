@@ -133,8 +133,7 @@ h1 {
   line-height: 1.4em;
   font-size: 1.03em;   
   padding: @spacing;   
-  list-style: none;
-  text-align: left;  
+  list-style: none; 
   font-weight: 100;  
   max-width: 30%; 
   
