@@ -126,7 +126,8 @@ h1 {
   background: fade(@color-light, 3%);
   color: fade(white, 80%);
   font-family: @font-text;  
-  margin: @spacing auto;  
+  margin: @spacing auto; 
+  text-align: center; 
   letter-spacing: 0.5px;   
   position: relative;
   line-height: 1.4em;
