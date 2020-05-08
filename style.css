@@ -50,6 +50,7 @@ div.sidebar a:hover {
 ul.timeline {
   list-style-type: none;
   position: relative;
+  right: auto;
 }
 ul.timeline:before {
   content: ' ';
