@@ -1,41 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <!-- Title -->
     <title>My Bio</title>
+
+    <!-- Link to Stylesheet -->
     <link rel="stylesheet" href="style.css">
+
+    <!-- Link to Timeline -->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    
+    <!-- Script -->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   </head>
+
   <body>
-    <sidebar>
-      <img src="images/Melpic1.jpg" class="mainPic" alt="Main Picture of Mel">
-      <h1>Melanie Stover</h1>
-      <a href="index.html">Timeline of Achievements</a>
-      <a href="about.html">My Bio - About Me</a>
-      <a href="future.html">My Future Endeavours</a>
-    </sidebar>
-
-    <div class="box">
-      <h1>~ My Timeline of Achievements ~</h1>
-      <div class="timeline">
-        <div class="container left">
-          <div class="content">
-            <h2>2017</h2>
-          </div>
-        </div>
-        <div class="container right">
-          <div class="content">
-            <h2>2018</h2>
-          </div>
-        </div>
-
-        <div class="container right">
-          <div class="content">
-            <h2>2016</h2>
-            <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-          </div>
-        </div>
+    <div class="leftBox"
+      <sidebar>
+        <img src="images/Melpic1.jpg" class="mainPic" alt="Main Picture of Mel">
+        <h1>Melanie Stover</h1>
+        <a href="index.html">Timeline of Achievements</a>
+        <a href="about.html">My Bio - About Me</a>
+        <a href="future.html">My Future Endeavours</a>
+      </sidebar>
     </div>
+
+    <div class="container mt-5 mb-5">
+      <div class="row">
+        <div class="col-md-6 offset-md-3">
+          <h4>Latest News</h4>
+          <ul class="timeline">
+            <li>
+              <a target="_blank" href="https://www.totoprayogo.com/#">New Web Design</a>
+              <a href="#" class="float-right">21 March, 2014</a>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
+            </li>
+            <li>
+              <a href="#">21 000 Job Seekers</a>
+              <a href="#" class="float-right">4 March, 2014</a>
+              <p>Curabitur purus sem, malesuada eu luctus eget, suscipit sed turpis. Nam pellentesque felis vitae justo accumsan, sed semper nisi sollicitudin...</p>
+            </li>
+            <li>
+              <a href="#">Awesome Employers</a>
+              <a href="#" class="float-right">1 April, 2014</a>
+              <p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    
+    <div class="text-muted mt-5 mb-5 text-center small">by : <a class="text-muted" target="_blank" href="http://totoprayogo.com">totoprayogo.com</a></div>
+  </div>
   </body>
 </html>
