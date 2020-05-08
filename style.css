@@ -49,7 +49,7 @@ div.sidebar a:hover {
 /* Timeline */
 ul.timeline {
   list-style-type: none;
-  position: relative;
+  position: fixed;
   right: auto;
 }
 ul.timeline:before {
