@@ -1,19 +1,26 @@
+/* Whole Page */
 * {
   text-align: center;
   box-sizing: border-box;
 }
 
+/* Body */
 body {
   background-color: #474e5d;
   font-family: Helvetica, sans-serif;
 }
 
+/* Image */
 .mainPic {
-  border-style: dotted rounded black 10px;
+  border-style: dotted rounded black 50px;
 }
+
+/* Headings */
 h1 {
-  font: green;
+  font: white;
 }
+
+/* Sidebar */
 sidebar {
   height: 100%;
   width: 300px;
