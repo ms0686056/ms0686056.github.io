@@ -22,12 +22,11 @@ h1 {
 
 /* Sidebar */
 sidebar {
-  width: 24%;
-  height: 90%;
-  float: left;
-  z-index: 1;
+  width: 24.5%;
+  height: 98%;
+  left: 5px;
+  position: fixed;
   background-color: pink;
-  overflow-x: hidden;
 }
 sidebar a {
   padding: 6px 8px 6px 16px;
