@@ -19,7 +19,6 @@ body {
 /* Headings */
 h1 {
   color: white;
-  z-index: 1;
 }
 
 /* Sidebar */
@@ -63,7 +62,6 @@ aside {
   bottom: 0;
   right: 37.34%;
   z-index: 0;
-  color: green;
 }
 
 /* Container around content */
