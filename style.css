@@ -22,6 +22,8 @@ h1 {
 
 /* Sidebar */
 sidebar {
+  width: 24%;
+  height: 90%;
   position: fixed;
   left: auto;
   z-index: 1;
