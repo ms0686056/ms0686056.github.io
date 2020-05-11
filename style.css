@@ -13,6 +13,7 @@ body {
 /* Image */
 .mainPic {
   border-style: dotted rounded black 50px;
+  padding-top: 20px;
 }
 
 /* Headings */
