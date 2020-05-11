@@ -25,7 +25,6 @@ sidebar {
   width: 24%;
   height: 90%;
   float: left;
-  position: fixed;
   z-index: 1;
   background-color: pink;
   overflow-x: hidden;
