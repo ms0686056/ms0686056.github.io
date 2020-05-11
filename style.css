@@ -28,7 +28,6 @@ sidebar {
   z-index: 1;
   background-color: pink;
   overflow-x: hidden;
-  padding-top: 20px;
 }
 sidebar a {
   padding: 6px 8px 6px 16px;
