@@ -47,9 +47,9 @@ sidebar a:hover {
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
-  margin-left: 300px;
   position: relative;
   right: auto;
+  left: 300px;
   max-width: 1200px;
   background-color: blue;
   font: green;
@@ -64,7 +64,6 @@ sidebar a:hover {
   top: 0;
   bottom: 0;
   left: 50%;
-  margin-left: 300px;
 }
 
 /* Container around content */
