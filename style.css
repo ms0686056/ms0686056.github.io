@@ -17,6 +17,7 @@ body {
 
 /* Headings */
 h1 {
+  margin-left: 300px;
   font: white;
 }
 
@@ -46,6 +47,7 @@ sidebar a:hover {
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
+  margin-left: 300px;
   position: relative;
   right: auto;
   max-width: 1200px;
