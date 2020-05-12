@@ -58,7 +58,7 @@ aside {
 /* The actual timeline (the vertical ruler) */
 .timeline::after {
   content: '';
-  position: absolute;
+  position: fixed;
   width: 6px;
   background-color: white;
   top: 0;
