@@ -58,13 +58,13 @@ aside {
 /* The actual timeline (the vertical ruler) */
 .timeline::after {
   content: '';
-  position: fixed;
+  position: absolute;
   width: 6px;
   background-color: white;
   top: 0;
   bottom: 0;
   right: 37.34%;
-  z-index: 0;
+  margin-left: -3px;
 }
 
 /* Container around content */
