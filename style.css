@@ -23,6 +23,10 @@ h1 {
   color: white;
 }
 
+nav a {
+  color: white;
+}
+
 /* Sidebar */
 sidebar {
   width: 24.5%;
