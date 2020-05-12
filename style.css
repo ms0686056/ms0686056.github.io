@@ -14,6 +14,7 @@ body {
 .mainPic {
   border-style: dotted rounded black 50px;
   padding-top: 20px;
+  width: 90%;
 }
 
 /* Headings */
