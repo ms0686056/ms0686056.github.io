@@ -63,7 +63,8 @@ aside {
   background-color: white;
   top: 0;
   bottom: 0;
-  right: 50.25%
+  right: 50%
+  margin-left: -3px;
 }
 
 /* Container around content */
