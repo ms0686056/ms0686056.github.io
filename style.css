@@ -6,7 +6,7 @@
 
 /* Body */
 body {
-  background-color: #003326;
+  background-color: #004d00;
   font-family: Helvetica, sans-serif;
 }
 
@@ -97,8 +97,8 @@ aside {
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: #003326;
-  border: 4px solid #008060;
+  background-color: #004d00;
+  border: 4px solid #ffff80;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
