@@ -194,6 +194,7 @@ aside {
 
 /* Footer */
 .contact {
+  margin-top: 200px;
   position: fixed;
   bottom: 0;
   height: 5%;
