@@ -195,8 +195,7 @@ aside {
 /* Footer */
 .contact {
   position: fixed;
-  left: 0;
-  bottom: auto;
+  bottom: 0;
   height: 5%;
   width: 100%;
   background-color: orangered;
