@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 {
-  color: #ff471a;
+  color: #666666;
 }
 
 h3 {
@@ -73,7 +73,7 @@ aside {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: white;
+  background-color: #b3b3b3;
   top: 0;
   bottom: 0;
   right: 49.75%
