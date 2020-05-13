@@ -6,7 +6,7 @@
 
 /* Body */
 body {
-  background-color: #474e5d;
+  background-color: #004d00;
   font-family: Helvetica, sans-serif;
 }
 
@@ -20,7 +20,15 @@ body {
 
 /* Headings */
 h1 {
-  color: #330033;
+  color: black;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
 }
 
 /* Sidebar */
@@ -35,7 +43,7 @@ sidebar a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #330033;
+  color: black;
   display: block;
 }
 sidebar a:hover {
@@ -54,7 +62,7 @@ aside {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
-  background-color: blue;
+  background-color: #330033;
 }
 
 /* The actual timeline (the vertical ruler) */
