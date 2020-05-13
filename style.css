@@ -62,7 +62,7 @@ aside {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
-  background-color: #330033;
+  background-image: url("images/sky.jpg");
 }
 
 /* The actual timeline (the vertical ruler) */
