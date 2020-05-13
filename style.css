@@ -37,7 +37,10 @@ sidebar {
   height: 98%;
   left: 5px;
   position: fixed;
-  background-color: #ff3385;
+  background-image: url("images/sky.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 sidebar a {
   padding: 6px 8px 6px 16px;
