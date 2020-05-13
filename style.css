@@ -191,3 +191,14 @@ aside {
   left: 0%;
   }
 }
+
+/* Footer */
+.contact {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: orangered;
+  color: white;
+  text-align: center;
+}
