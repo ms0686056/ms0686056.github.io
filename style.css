@@ -199,6 +199,9 @@ aside {
 /* Bootstrap Carousel Slideshow */
 .carouselSlide {
   width: 50%;
+  min-height: 100vh;
+  right: 5px;
+  float: right;
 }
 
 /* Footer */
