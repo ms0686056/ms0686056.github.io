@@ -199,7 +199,7 @@ aside {
 /* Footer */
 .contact {
   position: absolute;
-  bottom: 0;
+  top: -500px;
   height: 2.5rem;
   width: 100%;
   background-color: orangered;
