@@ -33,7 +33,7 @@ h3 {
   color: #666666;
   font-family: 'Courgette', cursive;
   font-size: 200%;
-  border-bottom: #666666 dashed solid double;
+  text-decoration: underline;
 }
 
 /* Sidebar */
