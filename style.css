@@ -27,6 +27,7 @@ h2 {
   color: #884dff;
   font-family: 'Courgette', cursive;
   font-size: 300%;
+  text-decoration: underline overline;
 }
 
 h3 {
