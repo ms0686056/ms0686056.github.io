@@ -69,7 +69,7 @@ aside {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
-  background-image: url("images/green.jpg");
+  background-image: url("images/chameleon.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -192,7 +192,7 @@ aside {
   }
 }
 
-/* Footer */
+/* Footer 
 .contact {
   position: fixed;
   left: 0;
