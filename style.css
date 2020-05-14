@@ -18,8 +18,6 @@ body {
   height: auto;
 }
 
-
-
 /* Headings */
 h1 {
   color: black;
@@ -196,6 +194,11 @@ aside {
   .right {
   left: 0%;
   }
+}
+
+/* Bootstrap Carousel Slideshow */
+.carouselSlide {
+  width: 50%;
 }
 
 /* Footer */
