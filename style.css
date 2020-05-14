@@ -10,13 +10,15 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
-/* Image */
+/* Images */
 .mainPic {
-  border-style: dotted rounded black 50px;
+  border-style: dotted black 50px;
   padding-top: 20px;
   width: 75%;
   height: auto;
 }
+
+
 
 /* Headings */
 h1 {
