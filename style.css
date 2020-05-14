@@ -43,6 +43,7 @@ sidebar {
   height: 100%;
   left: 5px;
   position: fixed;
+  min-height: 100vh;
   background-image: url("images/sky.jpg");
   background-position: center;
   background-repeat: no-repeat;
@@ -62,6 +63,7 @@ sidebar a:hover {
 /* Aside */
 aside {
   width: 75%;
+  min-height: 100vh;
   right: 5px;
   float: right;
 }
@@ -198,7 +200,8 @@ aside {
 .contact {
   position: absolute;
   bottom: 0;
-  height: 40%;
+  height: 2.5rem;
+  width: 100%;
   background-color: orangered;
   color: white;
 }
